@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Yannick, Software Engineer and Tech & Startup community volunteer .
+I am Yannick, Software Engineer and Tech & Startup community volunteer .
 
 - 💻 I ~like~ **love** coding
 - 🔭 I’m currently working from home.
