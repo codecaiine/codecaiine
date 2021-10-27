@@ -2,7 +2,7 @@
 
 I am Yannick, Full-stack Engineer and Tech & Startup community volunteer .
 
-- 💻 I ~like~ **love** coding
+- 💻 I **love** coding
 - 🔭 I’m currently working from home.
 - 🌱 I’m currently learning Fullstack development at Microverse
 - 👯 I’m looking to collaborate on opensource and group projects.
