@@ -16,7 +16,7 @@
 </br>
 </br>
 
-I’m a Software Engineer and IT auditor. I have more than seven years of work experience in Software development, three years in Telcom, Startup, Banking Industries, and three years in IT Consultant. Also, I am a Tech Speaker with more than twenty talks in five countries. I have a passion for community building, pair programming, and remote work. 
+I’m a Software Engineer and IT auditor. I have more than seven years of work experience in Software development, three (3) years in Telcom, Startup, Banking Industries, and three years in IT Consultant. Also, I am a Tech Speaker with more than twenty talks in five countries. I have a passion for community building, pair programming, and remote work. 
 I am open to job opportunities.
 
 - 💻 I **love** coding
