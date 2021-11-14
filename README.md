@@ -1,4 +1,18 @@
-### Hi there 👋
+<h3 title="hehehe"> Hey 👋, I'm Yannick !</h3>
+
+<a href="https://www.linkedin.com">
+  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com">
+  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com">
+  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://twitter.com">
+  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
+
 
 My name is Yannick and, I’m a Software Engineer and IT auditor. I have more than seven years of work experience in Software development, three years in Telcom, Startup, Banking Industries, and three years in IT Consultant. Also, I am a Tech Speaker with more than twenty talks in five countries. I have a passion for community building, pair programming, and remote work. 
 I am open to job opportunities.
