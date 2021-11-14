@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/yannick-no%C3%ABl-aka/">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com">
+<a href="https://www.instagram.com/yannickn.aka/">
   <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/yannicknoelaka">
