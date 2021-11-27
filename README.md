@@ -26,7 +26,8 @@ I am open to job opportunities.
 
 <br /> 
 <!-- LANGUAGES AND TOOLS -->
-## Languages and Tools:
+##Languages and Tools:
+<br />
 
 <p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
