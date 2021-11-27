@@ -27,7 +27,7 @@ I am open to job opportunities.
 <br /> 
 
 <!-- LANGUAGES AND TOOLS -->
-<h3 align="center">Languages and Tools:</h3>
+## <h3>Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
