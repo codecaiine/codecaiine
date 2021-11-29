@@ -26,7 +26,7 @@ I am open to job opportunities.
 
 <br /> 
 <!-- LANGUAGES AND TOOLS -->
-##Languages and Tools:
+<h3> Languages and Tools</h3>
 <br />
 
 <p align="center"> 
