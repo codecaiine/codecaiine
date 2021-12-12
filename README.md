@@ -121,6 +121,24 @@ I am open to job opportunities.
   </a> 
 </p>
 
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://netlify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://heroku.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
+      alt="heroku"/> 
+  </a> 
+</p>
+
+
 
 
 ⭐️ From [codecaiine](https://github.com/codecaiine/codecaiine)
