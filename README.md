@@ -27,6 +27,14 @@ I am open to job opportunities.
 
 <h3 align="center">Languages</h3>
 <p align="center">
+    <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
+      alt="python"/> 
+  </a>
+    <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
+      alt="php"/> 
+  </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
@@ -71,7 +79,7 @@ I am open to job opportunities.
   </a>
 </p>
 
-<h2 align="center">Backend</h2>
+<h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
