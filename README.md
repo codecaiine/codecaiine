@@ -138,6 +138,28 @@ I am open to job opportunities.
   </a> 
 </p>
 
+<h3 align="center">Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/ELanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://gitlab.com/Elanza-48" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="git"/>
+  </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
+  </a>
+</p>
+
 
 
 
