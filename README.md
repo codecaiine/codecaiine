@@ -31,9 +31,13 @@ I am open to job opportunities.
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
       alt="python"/> 
   </a>
-    <a href="https://www.php.net/" target="_blank"> 
+   <a href="https://www.php.net/" target="_blank"> 
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
       alt="php"/> 
+  </a>
+  <a href="https://www.ruby-lang.org/fr/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" 
+      alt="ruby"/> 
   </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
