@@ -1,3 +1,28 @@
+
+<h1 align="center">Hey, I'm Yannick-Noel Aka !<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+
+<h3 font-size="20" align="center">A passionate full stack engineer and entrepreneur from Côte d'Ivoire.</h3>
+<br />
+
+
+- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+
+- 👯 I’m looking to collaborate on **Spring Framework**
+
+- 🤝 I’m looking for help with **Algorithms and Data Structures**
+
+- 👨‍💻 All of my projects are available [@codecaiine](github.com/codecaiine)
+
+- 💬 Ask me about **Software Development and Football**
+
+- ⚡ Fun fact **Coding is a passion and not profession.**
+
+
+---
+
+
+<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+
 <h3 title="hehehe"> Hey 👋, I'm Yannick !</h3>
 
 <a href="https://www.linkedin.com/in/yannick-no%C3%ABl-aka/">
