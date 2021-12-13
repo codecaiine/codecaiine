@@ -17,40 +17,9 @@
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
-
----
-
-
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
-<h3 title="hehehe"> Hey 👋, I'm Yannick !</h3>
-
-<a href="https://www.linkedin.com/in/yannick-no%C3%ABl-aka/">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/yannickn.aka/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/yannicknoelaka">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/YannickNAka">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
-
-</br>
-</br>
-
-I’m a Software Engineer and IT auditor. I have more than seven years of work experience in Software development, three (3) years in Telcom, Startup, Banking Industries, and three years in IT Consultant. Also, I am a Tech Speaker with more than twenty talks in five countries. I have a passion for community building, pair programming, and remote work. 
-I am open to job opportunities.
-
-- 💻 I **love** coding
-- 🔭 I’m currently working from home.
-- 🌱 I’m currently learning Fullstack development at Microverse
-- 👯 I’m looking to collaborate on opensource and group projects.
-
-
-<h3 align="center">Languages</h3>
+<h4 align="center">Languages</h4>
 <p align="center">
     <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
@@ -82,7 +51,7 @@ I am open to job opportunities.
   </a>
 </p>
 
-<h3 align="center">Frontend</h3>
+<h4 align="center">Frontend</h4>
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -108,7 +77,7 @@ I am open to job opportunities.
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h4 align="center">Backend</h4>
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
@@ -125,7 +94,7 @@ I am open to job opportunities.
   </a>
 </p>
   
-<h3 align="center">Database</h3>
+<h4 align="center">Database</h4>
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -141,7 +110,7 @@ I am open to job opportunities.
   </a> 
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
+<h4 align="center">Cloud & Hosting:</h4>
 <p align="center">
   <a href="https://cloud.google.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google cloud"/> 
@@ -158,7 +127,7 @@ I am open to job opportunities.
   </a> 
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
+<h4 align="center">Version Control & CI/CD</h4>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -177,7 +146,7 @@ I am open to job opportunities.
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h4 align="center">Preferred IDEs  & Tools :</h4>
 <p align="center"> 
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
