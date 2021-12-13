@@ -19,7 +19,7 @@
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
-<h4 align="center">Languages</h4>
+<h3 align="center">Languages</h3>
 <p align="center">
     <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
@@ -50,7 +50,7 @@
       alt="css3"/>
   </a>
 </p>
-<h4 align="center">Frontend</h4>
+<h3 align="center">Frontend</h3>
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -75,7 +75,7 @@
       alt="webpack"/>
   </a>
 </p>
-<h4 align="center">Backend</h4>
+<h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
@@ -91,7 +91,7 @@
       <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails" /> 
   </a>
 </p> 
-<h4 align="center">Database</h4>
+<h3 align="center">Database</h3>
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -106,7 +106,7 @@
       alt="sqlite"/> 
   </a> 
 </p>
-<h4 align="center">Cloud & Hosting:</h4>
+<h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://cloud.google.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google cloud"/> 
@@ -122,7 +122,7 @@
       alt="heroku"/> 
   </a> 
 </p>
-<h4 align="center">Version Control & CI/CD</h4>
+<h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -140,7 +140,7 @@
       alt="docker"/>
   </a>
 </p>
-<h4 align="center">Preferred IDEs  & Tools :</h4>
+<h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
