@@ -50,7 +50,6 @@
       alt="css3"/>
   </a>
 </p>
-
 <h4 align="center">Frontend</h4>
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank">
@@ -76,7 +75,6 @@
       alt="webpack"/>
   </a>
 </p>
-
 <h4 align="center">Backend</h4>
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank"> 
@@ -92,8 +90,7 @@
     <a href="https://rubyonrails.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails" /> 
   </a>
-</p>
-  
+</p> 
 <h4 align="center">Database</h4>
 <p align="center">
   <a href="https://www.postgresql.org" target="_blank"> 
@@ -109,7 +106,6 @@
       alt="sqlite"/> 
   </a> 
 </p>
-
 <h4 align="center">Cloud & Hosting:</h4>
 <p align="center">
   <a href="https://cloud.google.com/" target="_blank">
@@ -126,7 +122,6 @@
       alt="heroku"/> 
   </a> 
 </p>
-
 <h4 align="center">Version Control & CI/CD</h4>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
@@ -145,7 +140,6 @@
       alt="docker"/>
   </a>
 </p>
-
 <h4 align="center">Preferred IDEs  & Tools :</h4>
 <p align="center"> 
   <a href="https://eclipse.org" target="_blank">
@@ -168,6 +162,47 @@
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
+
+----
+
+<h3 align="center">Connect with me</h3>
+
+<div style="margin-top:10px" align="center">
+  <div>
+    <a  href="https://dev.to/example" target="_blank">
+      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://medium.com/@example" target="_blank">
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
+    </a>
+  </div>
+  <div>
+    <a  href="https://linkedin.com/in/example" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://twitter.com/example" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    </a>
+  </div>
+  <div>
+    <a href="https://www.hackerrank.com/example" target="_blank">
+      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
+    </a>
+  </div>
+</div>
+
+<h3 align="center">Reach me</h3>
+
+<p align="center">
+  <a  href="https://t.me/example" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+  </a>
+  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+  </a>
+</p>
+
+----
 
 
 ⭐️ From [codecaiine](https://github.com/codecaiine/codecaiine)
