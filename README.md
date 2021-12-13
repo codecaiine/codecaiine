@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
+<br />
+
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <h3 align="center">Languages</h3>
