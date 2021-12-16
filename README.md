@@ -51,6 +51,10 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
+   <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"
+      alt="json"/>
+  </a>
 </p>
 <h3 align="center">Frontend</h3>
 <p align="center">
