@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey, I'm Yannick-Noel Aka !<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<h3 font-size="20" align="center">A passionate full stack engineer and entrepreneur from Côte d'Ivoire.</h3>
+<h3 font-size="20" align="center">A passionate full stack engineer IT Auditor and entrepreneur from Côte d'Ivoire.</h3>
 <br />
 
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available [@codecaiine](github.com/codecaiine)
 
-- 💬 Ask me about **Software Development and Football(soccer)**
+- 💬 Ask me about **Software Development and Football (Soccer)**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
