@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey, I'm Yannick-Noel Aka !<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<h3 font-size="20" align="center">A passionate full stack engineer IT Auditor and entrepreneur from Côte d'Ivoire.</h3>
+<h3 font-size="20" align="center">A passionate full-Stack Engineer, IT Auditor and entrepreneur from Côte d'Ivoire.</h3>
 <br />
 
 
