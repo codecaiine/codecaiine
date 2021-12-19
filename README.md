@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available [@codecaiine](github.com/codecaiine)
 
-- 💬 Ask me about **Software Development and Football (Soccer)**
+- 💬 Ask me about **Software Development and Football ( Soccer )**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
