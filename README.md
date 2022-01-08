@@ -146,7 +146,7 @@
       alt="docker"/>
   </a>
 </p>
-<h3 align="center">Preferred IDEs  & Tools :</h3>
+<h3 align="center">Preferred IDEs & Tools :</h3>
 <p align="center"> 
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
