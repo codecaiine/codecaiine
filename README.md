@@ -205,7 +205,7 @@
   <a  href="whatsapp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
   </a>
-  <a  href="" target="_blank">
+  <a  href="https://web.whatsapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="messenger"/>
   </a>
    <a  href="https://t.me/example" target="_blank">
