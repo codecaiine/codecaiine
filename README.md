@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Algorithms and Data Structures**
 
-- 👨‍💻 All of my projects are available [@codecaiine](github.com/codecaiine)
+- 👨‍💻 All of my projects are available [@codecaiine](https://github.com/codecaiine?tab=repositories)
 
 - 💬 Ask me about **Software Development and Football ( Soccer )**
 
