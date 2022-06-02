@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Yannick-Noel !<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hey, I'm Yannick-Noel ! </h1>
 
 <h3 font-size="20">A passionate full-Stack Engineer, IT Auditor and Tech entrepreneur from Côte d'Ivoire.</h3>
 <br />
