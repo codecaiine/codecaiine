@@ -219,4 +219,7 @@
 ----
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecaiine&show_icons=true&theme=merko)
+
+
 ⭐️ From [codecaiine](https://github.com/codecaiine/codecaiine)
