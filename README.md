@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codecaiine&color=blueviolet" alt="Profile views" />
   &nbsp;
-  <a href="https://github.com/Pepyn0?tab=followers">
+  <a href="https://github.com/codecaiine?tab=followers">
     <img src="https://img.shields.io/github/followers/codecaiine?style=social" alt="Followers" />
   </a>
 </p>
@@ -65,11 +65,11 @@
 <div>
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/codecaiine">
-    <img height=200 align="center" alt="codecaiine" src="https://github-readme-stats.vercel.app/api?username=codecaiine&show_icons=true&theme=merko" />
+   <a href="https://github.com/codecaiine">
+    <img height=200 align="center" alt="codecaiine" src="https://github-readme-stats.vercel.app/api?username=codecaiine&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/Pepyn0">
-    <img height=200 align="center" alt="codecaiine" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecaiine&langs_count=10&theme=merko&layout=compact" />
+    <img height=200 align="center" alt="codecaiine" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecaiine&langs_count=7&theme=midnight-purple&layout=compact" />
   </a>
 </div>
 
