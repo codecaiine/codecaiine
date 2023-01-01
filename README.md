@@ -174,10 +174,16 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{codecaiine}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs 📶</h4>
+<div>
 
-
-![Codecaiine's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecaiine&show_icons=true&theme=merko)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecaiine&langs_count=10&theme=merko&layout=compact" alt="codecaiine :: Top Langs" />
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/codecaiine">
+    <img height=200 align="center" alt="codecaiine" src="https://github-readme-stats.vercel.app/api?username=codecaiine&show_icons=true&theme=merko" />
+  </a>
+  <a href="https://github.com/Pepyn0">
+    <img height=200 align="center" alt="codecaiine" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecaiine&langs_count=10&theme=merko&layout=compact" />
+  </a>
+</div>
 
 
 <h2 align="center">Read me</h2>
