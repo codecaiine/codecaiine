@@ -168,9 +168,19 @@
   </a>
 </p>
 
-----
+<h2 align="center">Github stats :bar_chart:</h2>
 
-<h3 align="center">Connect with me</h3>
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{codecaiine}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs 📶</h4>
+
+
+![Codecaiine's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecaiine&show_icons=true&theme=merko)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecaiine&langs_count=10&theme=merko&layout=compact" alt="codecaiine :: Top Langs" />
+
+
+<h2 align="center">Read me</h2>
 
 <div style="margin-top:10px" align="center">
   <div>
@@ -181,17 +191,7 @@
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
     </a>
   </div>
-  <div>
-    <a  href="https://www.linkedin.com/in/yannick-no%C3%ABl-aka/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
-    </a>
-    <a href="https://twitter.com/YannickNAka" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-    </a>
-     <a href="https://facebook.com" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
-    </a>
-  </div>
+  
   <div>
     <a href="https://www.hackerrank.com/example" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
@@ -199,7 +199,9 @@
   </div>
 </div>
 
-<h3 align="center">Reach me</h3>
+
+
+<h2 align="center">Connect with me</h2>
 
 <p align="center">
   <a  href="https://web.whatsapp.com/" target="_blank">
@@ -214,22 +216,18 @@
   <a href="mailto:akabrouyannickn@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
+    
+   <a  href="https://www.linkedin.com/in/yannick-no%C3%ABl-aka/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
+    </a>
+    <a href="https://twitter.com/YannickNAka" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    </a>
+     <a href="https://facebook.com" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+    </a>
 </p>
-
-----
-
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{codecaiine}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs 📶</h4>
-
-
-![Codecaiine's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecaiine&show_icons=true&theme=merko)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecaiine&langs_count=10&theme=merko&layout=compact" alt="codecaiine :: Top Langs" />
-
-
+   
 
 
 
