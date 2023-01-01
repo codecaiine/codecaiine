@@ -8,11 +8,23 @@
 
 <h1 align="center">Hey, I'm Yannick-Noel ! </h1>
 
-<h3 font-size="20">A passionate full-Stack Engineer, IT Auditor and Tech entrepreneur from Côte d'Ivoire.</h3>
+
+
+
+
+<p font-size="20" align="center">A passionate full-Stack Engineer, IT Auditor and Tech entrepreneur from :cote_divoire: :cote_divoire: Côte d'Ivoire.</p>
 <br />
 
+<div>
 
-- 🌱 I’m currently learning **To be Extroverted** 
+  ## 🧭 &nbsp;About Me
+  
+  </br>
+
+  - 📚 Alumni Microverse - Mest Africa - Moz://a Tech Speaker.
+  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+
+  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter**, **Ruby On Rails** and **Python**.
 
 - 👯 I’m looking to collaborate on **Ruby and Rails**
 
@@ -23,6 +35,9 @@
 - 💬 Ask me about **Software Development and Football ( Soccer )**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
+
+
+</br>
 
 <div>
 
