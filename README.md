@@ -81,7 +81,7 @@
 
   ## 📊 &nbsp;My activities
    <a href="https://github.com/codecaiine">
-    <img width=480 height=200 align="center" alt="codecaiine" src="https://github-readme-stats.vercel.app/api?username=codecaiine&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=400 height=200 align="center" alt="codecaiine" src="https://github-readme-stats.vercel.app/api?username=codecaiine&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/Pepyn0">
     <img width=400 height=200 align="center" alt="codecaiine" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecaiine&langs_count=7&theme=midnight-purple&layout=compact" />
