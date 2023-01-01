@@ -218,8 +218,19 @@
 
 ----
 
+<h2 align="center">Github stats :bar_chart:</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecaiine&show_icons=true&theme=merko)
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{codecaiine}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+
+![Codecaiine's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecaiine&show_icons=true&theme=merko)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecaiine&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
+
+
+
 
 
 ⭐️ From [codecaiine](https://github.com/codecaiine/codecaiine)
