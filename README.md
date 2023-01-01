@@ -79,16 +79,16 @@
 <div style="margin-top:10px" align="center">
   <div>
     <a  href="https://dev.to/codecaiine" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto"/>
+      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=flat&logo=devdotto&logoColor=white" alt="devto"/>
     </a>
     <a href="https://yannicknaka.medium.com/" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=flat&logo=medium&logoColor=white" alt="medium"/>
     </a>
   </div>
   
   <div>
     <a href="https://www.hackerrank.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
+      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=flat&logo=hackerrank&logoColor=black" alt="example"/>
     </a>
   </div>
 </div>
@@ -99,26 +99,26 @@
 
 <p align="center">
   <a  href="https://web.whatsapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="whatsapp"/>
   </a>
   <a  href="https://web.whatsapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="messenger"/>
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=flat&logo=messenger&logoColor=white" alt="messenger"/>
   </a>
    <a  href="https://t.me/example" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=flat&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
   <a href="mailto:akabrouyannickn@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/>
   </a>
     
    <a  href="https://www.linkedin.com/in/yannick-no%C3%ABl-aka/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
     <a href="https://twitter.com/YannickNAka" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
      <a href="https://facebook.com" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="facebook"/>
     </a>
 </p>
    
