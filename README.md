@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codecaiine&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/Pepyn0?tab=followers">
+    <img src="https://img.shields.io/github/followers/codecaiine?style=social" alt="Followers" />
+  </a>
+</p>
 
 <h1 align="center">Hey, I'm Yannick-Noel ! </h1>
 
