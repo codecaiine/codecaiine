@@ -31,10 +31,12 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-  ![Ruby](https://img.shields.io/badge/Ruby-05122A?style=flat&logo=ruby&logoColor=white)&nbsp;
-  ![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-05122A?style=flat&logo=ruby-on-rails&logoColor=white)&nbsp;
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;
+  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)&nbsp;
+  ![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
-  ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)&nbsp;
   ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
