@@ -224,10 +224,10 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{codecaiine}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs 📶</h4>
 
 
-![Codecaiine's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecaiine&show_icons=true&theme=merko)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecaiine&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
+![Codecaiine's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecaiine&show_icons=true&theme=merko)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecaiine&langs_count=10&theme=merko&layout=compact" alt="codecaiine :: Top Langs" />
 
 
 
