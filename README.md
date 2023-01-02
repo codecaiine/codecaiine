@@ -17,16 +17,18 @@
 
 <div>
 
-  ## 🧭 &nbsp;About Me
+  ## 🎤 &nbsp;About Me
   
   </br>
 
   - 📚 Alumni Microverse - Mest Africa - Moz://a Tech Speaker.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+  
+  - 🗣️ I speak French 🇫🇷 and English 🇬🇧 
 
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter**, **Ruby On Rails** and **Python**.
+  - 🏗️  I’m building things with **JavaScript**, **TypeScript**, **ReactJS**, **Ruby On Rails** and **Python**.
 
-- 👯 I’m looking to collaborate on **Ruby and Rails**
+- 👯 I’m looking to collaborate on **Real-World projects**
 
 - 🤝 I’m looking for help with **Algorithms and Data Structures**
 
@@ -41,7 +43,7 @@
 
 <div>
 
-  ## :wrench:  My Tech Stacks
+  ## :wrench: Tech Stacks
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
   ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
