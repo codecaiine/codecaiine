@@ -6,37 +6,31 @@
   </a>
 </p>
 
-<h1 align="center">Hey, I'm Yannick-Noël ! </h1>
+<h1 align="center">Hey, I'm Yannick-Noël!</h1>
 
+<p align="center">
+  <strong>A passionate Full-Stack Engineer, IT Auditor, and Tech Entrepreneur from Côte d'Ivoire 🇨🇮</strong>
+</p>
 
+## 🎤 About Me
 
-
-
-<p font-size="20" align="center">A passionate full-Stack Engineer, IT Auditor and Tech entrepreneur from :cote_divoire: :cote_divoire: Côte d'Ivoire.</p>
-<br />
-
-<div>
-
-  ## 🎤 &nbsp;About Me
+- 📚 Former **Mozilla Tech Speaker**, Alumni of **Microverse** and **MEST Africa** .
   
-  </br>
-
-  - 📚 Alumni Microverse - Mest Africa - Moz://a Tech Speaker.
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+- 🗣️ Fluent in **English** ! and **French** (Je parle français !).
   
-  - 🗣️ I speak French 🇫🇷 and English 🇬🇧 
+- 🏗️ Building solutions with **JavaScript**, **TypeScript**, **ReactJS**, **Ruby on Rails**, and **Python**.
 
-  - 🏗️  I’m building things with **JavaScript**, **TypeScript**, **ReactJS**, **Ruby On Rails** and **Python**.
+- 👯 Open to collaboration on **real-world projects**.
 
-- 👯 I’m looking to collaborate on **Real-World projects**
+- 🤝 Seeking assistance with **algorithms and data structures**.
 
-- 🤝 I’m looking for help with **Algorithms and Data Structures**
+- 👨‍💻 Explore my projects [here](https://github.com/codecaiine?tab=repositories).
 
-- 👨‍💻 All of my projects are available [@codecaiine](https://github.com/codecaiine?tab=repositories)
+- 💬 Let's talk about **software development** and **football (soccer)**.
 
-- 💬 Ask me about **Software Development and Football ( Soccer )**
+- ⚡ Fun fact: **Coding is my passion, not just my profession.**
 
-- ⚡ Fun fact **Coding is a passion and not profession.**
+
 
 
 </br>
