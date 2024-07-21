@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h1 align="center">Hey, I'm Yannick-Noel ! </h1>
+<h1 align="center">Hey, I'm Yannick-Noël ! </h1>
 
 
 
