@@ -26,7 +26,7 @@
 
 - 👨‍💻 Explore my projects [here](https://github.com/codecaiine?tab=repositories).
 
-- 💬 Let's talk about **software development** and **football (soccer)**.
+- 💬 Let's talk about **software development** and **entrepreneurship**.
 
 - ⚡ Fun fact: **Coding is my passion, not just my profession.**
 
