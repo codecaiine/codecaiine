@@ -14,7 +14,7 @@
 
 ## 🎤 About Me
 
-- 📚 Former **Mozilla Tech Speaker**, Alumni of **Microverse** and **MEST Africa** .
+- 📚 Former **Mozilla Tech Speaker**, Alumni **Microverse** & **MEST Africa** .
   
 - 🗣️ Fluent in **English** ! and **French** (Je parle français !).
   
