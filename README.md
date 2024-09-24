@@ -20,7 +20,7 @@
   
 - 🏗️ Building solutions with **JavaScript**, **TypeScript**, **ReactJS**, **Ruby on Rails**, and **Python**.
 
-- 👯 Open to collaboration on **any projects**.
+- 👯Open to collaboration on **any projects**.
 
 - 🤝 Seeking assistance with **algorithms and data structures**.
 
